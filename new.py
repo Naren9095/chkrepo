@@ -1,1 +1,1 @@
-print('Learning Azure')
+print('Learning Azure ')
