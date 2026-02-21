@@ -1,2 +1,2 @@
 print('Learning Azure ')
-print()
+print('new1')
